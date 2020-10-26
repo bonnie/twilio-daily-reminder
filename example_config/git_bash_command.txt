@@ -1,0 +1,1 @@
+C:\Program Files\Git\git-bash.exe -c "cd '/c/Users/Bonnie Schulkin/src/twilio-daily-reminder'; npm run reminder"
