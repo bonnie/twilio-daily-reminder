@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "reminder": "node meditation_reminder.js >> stdout.log 2>> stderr.log",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "reminder": "node reminder.js >> stdout.log 2>> stderr.log",
   },
   "author": "",
   "license": "ISC",
