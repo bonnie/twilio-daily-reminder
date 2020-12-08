@@ -1,5 +1,5 @@
 # Schedule a Daily SMS Reminder (Linux, MacOs or Windows)
-### Code to accopmany the [Twilio Developer Voices blog post](http://blog.twilio.com).
+### Code to accopmany the [Twilio Developer Voices blog post](https://www.twilio.com/blog/schedule-a-daily-sms-reminder-on-linux-macos-or-windows).
 
 ## To install
 1. [Fork](https://guides.github.com/activities/forking/) or [clone](https://github.com/git-guides/git-clone) this repository.
